@@ -1,16 +1,13 @@
-### Hi there 👋
+## Summary
 
-<!--
-**Aisoipheo/Aisoipheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisoipheo&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## Competitive :space_invader:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Badge](https://cp-logo.vercel.app/codeforces/Aisoipheo)
+
+Codeforces profile: [Aisoipheo](https://codeforces.com/profile/Aisoipheo) :rocket:
+
+## Learning / Courses :mortar_board:
+
+[![rdrizzle's 21 stats](https://badge42.herokuapp.com/api/stats/rdrizzle?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
