@@ -6,8 +6,9 @@
 ![Badge](https://cp-logo.vercel.app/codeforces/Aisoipheo)
 
 Codeforces profile: [Aisoipheo](https://codeforces.com/profile/Aisoipheo) :rocket:
--->
+
 
 ## Learning / Courses :mortar_board:
 
 [![rdrizzle's 21 stats](https://badge42.herokuapp.com/api/stats/rdrizzle?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+-->
